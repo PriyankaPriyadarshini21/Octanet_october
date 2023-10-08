@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0cm;
+    background-color:linen;
+     }
+.navigationcontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.button a{
+    text-decoration: none;
+    padding: 30px;
+    color: brown;
+}
+.logo-container>img{
+    height: 6cm;
+    width:6cm;
+}
+ .middle{
+        display:flex ;
+        justify-content: space-between;
+    }
+.caption{
+font-size: 30px;
+font-weight: bold;
+}
+.caption a{
+padding-top: 5px;
+text-decoration: none;
+color: whitesmoke;
+background-color:brown;
+}
+.middleimg{
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 99% 99% 99% 99%;
+    overflow: hidden;
+}
+.menu{
+    background-color: white;
+    border:transparent solid gray;
+}
+.memu:hover{
+    background-color: crimson;
+    
+}.food{
+   ruby-position: right;
+}
